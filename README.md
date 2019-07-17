@@ -1,5 +1,5 @@
 # analyticscosm
-# 1) download the project
+# download the project
 # unzip data file
 # change the directory as per the notebook and run the jupyter notebook
 # Competition id - AC01
